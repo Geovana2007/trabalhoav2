@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #01147e;
+    background-color: #0858a3;
 }
 
 header {
-    background: #01147e;
-    color: rgb(73, 138, 175);
+    background: #0858a3;
+    color: rgb(11, 62, 156);
     padding: 20px 0;
     text-align: center;
 }
@@ -23,8 +23,8 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(73, 138, 175);
-    text-decoration: none;
+    color: rgb(15, 59, 141)
+    text-decoration none;
 }
 
 main {
@@ -33,7 +33,7 @@ main {
 
 section {
     margin-bottom: 20px;
-    background: rgb(73, 138, 175);
+    background: rgb(15, 59, 141);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px 
@@ -43,7 +43,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #333;
-    color: rgb(73, 138, 175);
+    color: rgb(15, 59, 141);
     position: relative;
     bottom: 0;
     width: 100%;
